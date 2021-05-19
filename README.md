@@ -1,4 +1,4 @@
-# estado_asesino_y_violador
+# estadoasesinoyviolador.com
 Este es un proyecto artístico en la web; un gesto de catarsis colectiva en formato HTML.
 
 # Res:
